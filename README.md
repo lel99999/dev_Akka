@@ -13,6 +13,12 @@ $source "$HOME/.sdkman/bin/sdkman-init.sh"
 ```
 ** SDKMAN uses the shim design pattern to intercept Java relevant commands and route them to the correct software versions. This design pattern is also used in other version management tools like rbenv (Ruby) and pyenv (Python). **
 
+##### SDK list and install Java
+![https://github.com/lel99999/dev_Akka/blob/main/sdk_list_java_cmd.png](https://github.com/lel99999/dev_Akka/blob/main/sdk_list_java_cmd.png) <br/>
+
+```
+$sdk install java 8.0.292.j9-adpt
+```
 
 ##### Install scala tools
 ```
