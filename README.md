@@ -19,6 +19,10 @@ $source "$HOME/.sdkman/bin/sdkman-init.sh"
 ```
 $sdk install java 8.0.292.j9-adpt
 ```
+** Once java is installed, must set the version to use ** <br/>
+```
+$sdk use java 8.0.292.j9-adpt
+```
 
 ##### Install scala tools
 ```
