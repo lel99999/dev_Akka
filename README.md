@@ -41,3 +41,11 @@ $sdk list scala
 $sdk use scala 2.11.12
 ```
 
+##### SBT notes
+- .ivy2 error with libraries
+- ~/.ivy2/cache
+
+```
+$sbt update clean
+```
+
