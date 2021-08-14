@@ -24,5 +24,10 @@ $sdk install scala
 ```
 $sdk list scala
 ```
-![https://github.com/lel99999/dev_Akka/blob/main/sdk_list_cmd.png](https://github.com/lel99999/dev_Akka/blob/main/sdk_list_cmd.png) <br/>
+![https://github.com/lel99999/dev_Akka/blob/main/sdk_list_cmd1.png](https://github.com/lel99999/dev_Akka/blob/main/sdk_list_cmd1.png) <br/>
+
+** Change scala versions ** <br/>
+```
+$sdk use scala 2.11.12
+```
 
